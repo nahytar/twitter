@@ -1,0 +1,40 @@
+.logo {
+  width: 100%;
+  text-align: center;
+  color: white;
+  background-color: #1c94e0;
+  font-family: 'Bitter', serif;
+}
+
+.twits {
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+}
+
+.img {
+  background-image: url("../img/descarga.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.areaTwit {
+  background-color: white;
+  padding: 20px;
+  margin-left: 30px;
+}
+
+.areaTwiteado {
+  background-color: white;
+  width: 500px;
+  height: 20vh;
+  padding: 20px;
+  margin-left: 30px;
+}
+
+.cont {
+  width: 100%;
+  height: 30vh;
+  background-color: gray;
+}
