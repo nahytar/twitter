@@ -30,5 +30,5 @@ button.addEventListener("click", () => {
   cont.appendChild(newComments);
 })
 
-txtArea.addEventListener("keyup", checkText);
+txtArea.addEventListener("keydown", checkText);
 checkText();
